@@ -60,13 +60,13 @@ input:checked+label .agreement {
   display: none;
 }
 
-/*input:checked + label .disagreement {
-	display: inherit;
+input:checked+label .disagreement {
+  display: inherit;
   background-color: #ff3c1a;
   opacity: 1;
 }
 
-.containers {
+/*.containers {
   width: 520px;
   margin: 20px auto;
 }
