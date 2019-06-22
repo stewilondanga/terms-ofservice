@@ -48,11 +48,11 @@ input[type="checkbox"] {
   display: none;
 }
 
-/*.agreement{
-  background-color:#8ab34d;
+.agreement {
+  background-color: #8ab34d;
 }
 
-input:checked + label .agreement {
+/*input:checked + label .agreement {
 	display: none;
 }
 
