@@ -44,11 +44,11 @@ body {
   transition: box-shadow 0.3s ease-in-out;
 }
 
-/*input[type="checkbox"] {
-	display:none;
+input[type="checkbox"] {
+  display: none;
 }
 
-.agreement{
+/*.agreement{
   background-color:#8ab34d;
 }
 
