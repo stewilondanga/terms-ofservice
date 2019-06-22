@@ -56,11 +56,11 @@ input:checked+label .agreement {
   display: none;
 }
 
-/*.disagreement{
- display: none;
+.disagreement {
+  display: none;
 }
 
-input:checked + label .disagreement {
+/*input:checked + label .disagreement {
 	display: inherit;
   background-color: #ff3c1a;
   opacity: 1;
